@@ -7,6 +7,7 @@ products:
   - azure-redis-cache
 description: "This sample creates a multi-container application in an Azure Kubernetes Service (AKS) cluster."
 ---
+# Renan Moraes - Pós-graduação Engenharia Devops - Devops na prática
 
 # Azure Voting App
 
